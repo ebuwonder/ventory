@@ -32,7 +32,6 @@
     "name": "Cyberpunk 2077",
     "price": 56.95,
     "manufacturer": "CD Projekt RED",
-    "category": "XboxOne",
     "image": "./images/Cyberpunk2077.jpg",
   }
 ]
